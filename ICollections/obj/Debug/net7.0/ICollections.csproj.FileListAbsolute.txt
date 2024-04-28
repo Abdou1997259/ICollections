@@ -1,0 +1,15 @@
+F:\Reporesitory Pattern\ICollections\ICollections\bin\Debug\net7.0\ICollections.exe
+F:\Reporesitory Pattern\ICollections\ICollections\bin\Debug\net7.0\ICollections.deps.json
+F:\Reporesitory Pattern\ICollections\ICollections\bin\Debug\net7.0\ICollections.runtimeconfig.json
+F:\Reporesitory Pattern\ICollections\ICollections\bin\Debug\net7.0\ICollections.dll
+F:\Reporesitory Pattern\ICollections\ICollections\bin\Debug\net7.0\ICollections.pdb
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.csproj.AssemblyReference.cache
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.AssemblyInfoInputs.cache
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.AssemblyInfo.cs
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.csproj.CoreCompileInputs.cache
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.dll
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\refint\ICollections.dll
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.pdb
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ICollections.genruntimeconfig.cache
+F:\Reporesitory Pattern\ICollections\ICollections\obj\Debug\net7.0\ref\ICollections.dll
